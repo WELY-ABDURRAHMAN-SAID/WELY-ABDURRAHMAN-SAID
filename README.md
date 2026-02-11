@@ -1,4 +1,4 @@
-<h1 align="center"> WELY </h1>
+<p><h1 align="center"> WELY </h1></p>
 <h3 align="center">"Building in silence. Moving like Satoshi."</h3>
 
 <p align="center">
