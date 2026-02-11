@@ -39,5 +39,5 @@ Exploring system internals, security fundamentals, and decentralized tech.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=0&color=00FF41&center=true&vCenter=true&width=600&lines=01001000011000010110001101101011;9f2a1c7e4b8d3a6f4e91ab77cc2dff01;ICE+BYTE+INITIALIZING..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=0&color=00FF41&center=true&vCenter=true&width=600&lines=01001000011000010110001101101011;9f2a1c7e4b8d3a6f4e91ab77cc2dff01;ICE+SYSTEM+INITIALIZING..." />
 </p>
