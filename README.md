@@ -1,28 +1,43 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= CYBER HEADER ================= -->
 
 <h1 align="center">⚡ WELY ABDURAHMAN SAID ⚡</h1>
-<h3 align="center">Cyber Security Learner | Blockchain Explorer | Future Tech Builder</h3>
+<h3 align="center">Cyber Security | Blockchain | Networking</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Build.;Secure.;Learn.;Never+Stop+Growing." />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Bitcoin+Enthusiast;Future+Tech+Builder;Stay+Low+Keep+Building" />
 </p>
 
 ---
 
-## 🧠 About Me
+## ₿ Bitcoin Mode
 
-- 🎓 TKJ Graduate passionate about technology
-- 🔭 Focus: Networking, System Administration & Cyber Security
-- ₿ Interested in Blockchain & Bitcoin
-- 🐧 Linux Enthusiast
-- ⚡ Currently improving my coding & security skills
+<p align="center">
+  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="150">
+</p>
+
+- ₿ Interested in Blockchain Technology  
+- 📈 Learning crypto fundamentals  
+- ⚡ Exploring Web3 & decentralization  
+
+---
+
+## 🛡 Cyber Security Mode
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
+</p>
+
+- 🔐 Networking & System Administration
+- 🐧 Linux User
+- 🧠 Improving penetration testing knowledge
+- ⚡ Learning ethical hacking fundamentals
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,git,github,html,css,vscode,bash" />
+  <img src="https://skillicons.dev/icons?i=linux,python,git,github,html,css,bash,vscode" />
 </p>
 
 ---
@@ -44,24 +59,14 @@
 
 ---
 
-## 🚀 Current Goal
+## 🎯 Current Mission
 
-> Master networking.  
 > Strengthen cyber security skills.  
-> Build real-world projects.
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://github.com/WELY-ABDURAHMAN-SAID">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+> Build real-world projects.  
+> Prepare for bigger opportunities.
 
 ---
 
 <p align="center">
-  ⚡ “Stay consistent. Stay focused.” ⚡
+  ⚡ “Build in silence. Let the code speak.” ⚡
 </p>
