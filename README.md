@@ -32,9 +32,9 @@
 
 ---
 
-  Project: ICE BYTE
+  <b>Current Build</b>
 
-> A future digital asset born from cold logic & silent execution.
+Exploring system internals, security fundamentals, and decentralized tech.
 
 ---
 
