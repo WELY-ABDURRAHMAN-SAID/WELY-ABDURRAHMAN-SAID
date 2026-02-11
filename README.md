@@ -1,4 +1,4 @@
-<h1 align="center"> Wely </h1>
+<h1 align="center"> WELY </h1>
 <h3 align="center">"Building in silence. Moving like Satoshi."</h3>
 
 <p align="center">
@@ -7,7 +7,7 @@
 
 ---
 
-## 🟡 Pacman Eating My Contributions
+##  Pacman Eating My Contributions
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -15,14 +15,14 @@
 
 ---
 
-## ⛓️ Blockchain Network Animation
+##  Decentralized Hacker Network
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 </p>
 ---
 
-## 💻 Tech Arsenal
+##  Tech Arsenal
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,arch,git,github,python,js,html,css,react,nodejs" />
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 Currently Learning
+## Currently Learning
 
 - 🔐 Ethical Hacking
 - 🧬 Blockchain Technology
@@ -39,7 +39,7 @@
 
 ---
 
-## 🧊 Project: ICE BYTE
+##  Project: ICE BYTE
 
 > A future digital asset born from cold logic & silent execution.
 
