@@ -15,11 +15,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🧬 Blockchain Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LO&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="500"/>
 </p>
 
 ---
