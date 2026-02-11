@@ -1,5 +1,5 @@
 <h1 align="center"> WELY </h1>
-<h3 align="center">"Building in silence. Moving like Satoshi."</h3>
+<h3 align="center">"moving in the dark."</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Future+Legend+IT;technological+World+Peace;Computer+And+Network+Engineering" />
