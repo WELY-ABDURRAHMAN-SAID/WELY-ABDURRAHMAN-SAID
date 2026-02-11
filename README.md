@@ -1,43 +1,16 @@
-<!-- ================= CYBER HEADER ================= -->
-
-<h1 align="center">⚡ WELY ABDURAHMAN SAID ⚡</h1>
-<h3 align="center">Cyber Security | Blockchain | Networking</h3>
+<h1 align="center"> Wely </h1>
+<h3 align="center">"Building in silence. Moving like Satoshi."</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Cyber+Security+Learner;Bitcoin+Enthusiast;Future+Tech+Builder;Stay+Low+Keep+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Cyber+Security+Enthusiast;Future+Legend+IT;Bitcoin+Believer;ICE+BYTE+Creator" />
 </p>
 
 ---
 
-## ₿ Bitcoin Mode
+## 🟡 Pacman Eating My Contributions
 
 <p align="center">
-  <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="150">
-</p>
-
-- ₿ Interested in Blockchain Technology  
-- 📈 Learning crypto fundamentals  
-- ⚡ Exploring Web3 & decentralization  
-
----
-
-## 🛡 Cyber Security Mode
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400">
-</p>
-
-- 🔐 Networking & System Administration
-- 🐧 Linux User
-- 🧠 Improving penetration testing knowledge
-- ⚡ Learning ethical hacking fundamentals
-
----
-
-## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,git,github,html,css,bash,vscode" />
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
@@ -45,28 +18,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WELY-ABDURAHMAN-SAID&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WELY-ABDURAHMAN-SAID&layout=compact&theme=tokyonight&hide_border=true" height="170">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_LO&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_LO&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak
+## 💻 Tech Arsenal
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WELY-ABDURAHMAN-SAID&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,git,github,python,js,html,css,react,nodejs" />
 </p>
 
 ---
 
-## 🎯 Current Mission
+## 🧠 Currently Learning
 
-> Strengthen cyber security skills.  
-> Build real-world projects.  
-> Prepare for bigger opportunities.
+- 🔐 Ethical Hacking
+- 🧬 Blockchain Technology
+- 🖥️ Low Level System
+- ₿ Bitcoin & Crypto Infrastructure
+
+---
+
+## 🧊 Project: ICE BYTE
+
+> A future digital asset born from cold logic & silent execution.
 
 ---
 
 <p align="center">
-  ⚡ “Build in silence. Let the code speak.” ⚡
+  <img src="https://komarev.com/ghpvc/?username=USERNAME_LO&color=blue&style=flat-square" />
 </p>
